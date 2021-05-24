@@ -1,0 +1,47 @@
+.Home .Photo-Component {
+    position: fixed;
+    height: 65%;
+    width: 65%;
+    margin-left: 370px;
+    margin-top: 100px;
+}
+
+.Home .Text-1 {
+        position: fixed;
+        margin-top: 250px;
+        margin-left: -15vh;
+
+}
+
+.Home .Text-2 {
+    position: fixed;
+    margin-top: 310px;
+    margin-left: -8vh;
+
+}
+
+.Home .Buy-Button {
+	box-shadow: 1px 0px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #f7e04a 5%, #ffc870 100%);
+	background-color:#f7e04a;
+	border-radius:16px;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:8px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffee66;
+    position: fixed;
+    margin-top: 40vh;
+    margin-left: 5vh;
+}
+.Buy-Button:active {
+	position:relative;
+	top:1px;
+}
+
+        
